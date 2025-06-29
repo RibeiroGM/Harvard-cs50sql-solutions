@@ -1,0 +1,1 @@
+SELECT *  FROM episodes WHERE air_date BETWEEN '2003-01-01' AND '2006-12-31';
